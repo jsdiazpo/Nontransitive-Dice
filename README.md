@@ -1,1 +1,1 @@
-# Fun-with-dice
+# Nontransitive-dice
